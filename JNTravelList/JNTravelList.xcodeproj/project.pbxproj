@@ -449,7 +449,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = J65PC3995V;
-				GCC_PREFIX_HEADER = /Users/jiangergo/Desktop/JNTravelList/JNTravelList/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "/Users/jiangergo/Desktop/jiangergo/JNGitHub/JN-TravelList/JNTravelList/JNTravelList/PrefixHeader.pch";
 				INFOPLIST_FILE = JNTravelList/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -464,7 +464,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = J65PC3995V;
-				GCC_PREFIX_HEADER = /Users/jiangergo/Desktop/JNTravelList/JNTravelList/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "/Users/jiangergo/Desktop/jiangergo/JNGitHub/JN-TravelList/JNTravelList/JNTravelList/PrefixHeader.pch";
 				INFOPLIST_FILE = JNTravelList/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
